@@ -308,7 +308,7 @@ Se verificó que la tecla `Menu` del mando IR muestra la pantalla de configuraci
 
  
 
-Se comprobó que la tecla `+` aumenta el setpoint de temperatura y que la pantalla LCD actualiza el nuevo valor. Esta prueba demuestra que el mando IR no solo se utiliza para seleccionar plantas, sino también para modificar parámetros de control. 
+Se comprobó que las teclas `+` y `-` aumentan y disminuyen respectivamente el setpoint de temperatura y que la pantalla LCD actualiza el nuevo valor. Esta prueba demuestra que el mando IR no solo se utiliza para seleccionar plantas, sino también para modificar parámetros de control. 
 
  
 
