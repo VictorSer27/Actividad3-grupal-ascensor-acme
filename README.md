@@ -86,6 +86,32 @@ El sistema base mantiene la lógica de funcionamiento de la Actividad 2 y sirve 
 
  
 
+## Bill of Materials 
+La siguiente tabla recoge los componentes empleados en la implementación física equivalente del sistema desarrollado en Wokwi.
+
+| Designator | Descripción | Part Number | Cantidad | Coste Unitario (€) | Coste Total (€) |
+|------------|-------------|-------------|----------|-------------------|----------------|
+| U1 | Arduino Uno R3 | A000066 | 1 | 24,90 | 24,90 |
+| DS1 | LCD 16x2 I2C | LCD1602 + PCF8574 | 1 | 5,50 | 5,50 |
+| M1 | Micro Servo | SG90 | 1 | 3,00 | 3,00 |
+| IR1 | Receptor IR | VS1838B | 1 | 0,70 | 0,70 |
+| SW1-SW5 | Pulsadores NA | B3F-1000 | 5 | 0,30 | 1,50 |
+| U2 | Sensor temperatura y humedad | DHT22 (AM2302) | 1 | 5,50 | 5,50 |
+| LDR1 | Fotoresistencia | GL5528 | 1 | 0,20 | 0,20 |
+| U3 | Sensor PIR | HC-SR501 | 1 | 2,50 | 2,50 |
+| D1 | LED rojo | LTL-307EE | 1 | 0,10 | 0,10 |
+| D2 | LED azul | LTL-4232N | 1 | 0,10 | 0,10 |
+| D3 | LED amarillo | LTL-307Y | 1 | 0,10 | 0,10 |
+| R1-R3 | Resistencias 1 kΩ | CFR-25JB-1K | 3 | 0,02 | 0,06 |
+
+**Coste total estimado del sistema:** **44,16 €**
+
+ 
+
+--- 
+
+ 
+
 ## Mejora implementada en la Actividad 3 
 
  
