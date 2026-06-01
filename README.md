@@ -89,7 +89,7 @@ El sistema base mantiene la lógica de funcionamiento de la Actividad 2 y sirve 
 ## Esquemático del circuito 
 En la siguiente imagen se muestra el esquemático final del circuito implementado para esta práctica.
 
- ![Esquemático del circuito](Capturas/05_esquematico_circuito) 
+ ![Esquemático del circuito](Capturas/05_esquematico_circuito.png) 
 
 --- 
 
